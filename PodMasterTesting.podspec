@@ -38,5 +38,5 @@ DESC
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'Alamofire', '~> 4.5'
+   s.dependency 'Alamofire', '~> 4.5'
 end
