@@ -1,0 +1,16 @@
+PODS:
+  - PodMasterTesting (0.1.0)
+
+DEPENDENCIES:
+  - PodMasterTesting (from `../`)
+
+EXTERNAL SOURCES:
+  PodMasterTesting:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PodMasterTesting: da0b8e73b6ebff0cb4349addd8669c2af58689ab
+
+PODFILE CHECKSUM: ccf20c0940b75d53b2d7bb887d41603ad3225563
+
+COCOAPODS: 1.5.3

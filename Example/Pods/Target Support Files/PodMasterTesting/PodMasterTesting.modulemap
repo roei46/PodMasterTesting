@@ -1,0 +1,6 @@
+framework module PodMasterTesting {
+  umbrella header "PodMasterTesting-umbrella.h"
+
+  export *
+  module * { export * }
+}
