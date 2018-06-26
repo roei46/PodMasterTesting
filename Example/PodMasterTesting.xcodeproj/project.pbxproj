@@ -29,9 +29,9 @@
 
 /* Begin PBXFileReference section */
 		194B16AF4689ADF4E5336522 /* Pods-PodMasterTesting_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodMasterTesting_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PodMasterTesting_Example/Pods-PodMasterTesting_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		316DBC1903D7FB8C607CC864 /* PodMasterTesting.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = PodMasterTesting.podspec; path = ../PodMasterTesting.podspec; sourceTree = "<group>"; };
+		316DBC1903D7FB8C607CC864 /* PodMasterTesting.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PodMasterTesting.podspec; path = ../PodMasterTesting.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		31BB785972164C9349607B2F /* Pods_PodMasterTesting_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PodMasterTesting_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		33ADBE4DEC250596FC7E9A87 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		33ADBE4DEC250596FC7E9A87 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* PodMasterTesting_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PodMasterTesting_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -45,7 +45,7 @@
 		6BD776C70CFED1F8359EB0EA /* Pods-PodMasterTesting_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodMasterTesting_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-PodMasterTesting_Example/Pods-PodMasterTesting_Example.release.xcconfig"; sourceTree = "<group>"; };
 		760453CAB6450CC0B2873155 /* Pods-PodMasterTesting_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodMasterTesting_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PodMasterTesting_Tests/Pods-PodMasterTesting_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		825C14877C5A3872901933C9 /* Pods_PodMasterTesting_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PodMasterTesting_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A4B2AF214DABD926F88A999D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		A4B2AF214DABD926F88A999D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		C3C1C17C028BABBCA1B010EF /* Pods-PodMasterTesting_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodMasterTesting_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-PodMasterTesting_Tests/Pods-PodMasterTesting_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
