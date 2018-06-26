@@ -204,9 +204,9 @@
 			isa = PBXGroup;
 			children = (
 				F2D0451DB1F37252298223160185EFF6 /* ReplaceMe.swift */,
+				D21B97D120E2271100C67B01 /* RandomGenerator.swift */,
 				EA5ABB06FE5407C3C30D71CDC5D09DE7 /* Pod */,
 				7C1A96A1C3073BAEE424885B4D6676EA /* Support Files */,
-				D21B97D120E2271100C67B01 /* RandomGenerator.swift */,
 			);
 			name = PodMasterTesting;
 			path = ../..;
