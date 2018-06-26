@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PodMasterTesting'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'PodMasterTesting is a pod that created to do some testing on'
 
 # This description is used to generate tags and improve search results.
